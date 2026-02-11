@@ -1,0 +1,77 @@
+
+
+Roles : You are an expert in Light RAG, Experience 5 yr
+Objective : 5 realistic projects for each type : text processing, image processing, audio processing
+Details: Use relevant Python packages
+A paragraph of text, pdf file for text processing,
+An image of regular size for image processing,
+An audio of max 5 min duration for audio processing
+Structure: 
+Ideal result for text processing : important, urgent textual information,  
+Ideal result for image processing :  important elements present in an image, 
+Ideal result for audio processing : important audio tones present in an audio
+
+============================================================================================
+============================================================================================
+============================================================================================
+
+Text processing example :
+
+Roles : You are an expert in Light RAG, Experience 5 yr
+Objective : Design a realistic project for text processing
+Details: Use Python packages PyMuPDF, spaCy, NetworkX. Need to analyse a pdf file which is basically terms and conditions for a service provider company.
+Structure:  Ideal result for text processing : Scans PDFs to identify "High Risk" clauses (indemnity, termination) using graph-based entity linking, 
+
+
+
+
+============================================================================================
+============================================================================================
+============================================================================================
+
+Image processing example :
+
+Roles : You are an expert in Light RAG, Experience 5 yr
+Objective : Design a realistic project for image processing
+Details: Use Python packages Ultralytics (YOLO), NumPy. Need to analyse an image to spot misplaced products in a super market retail shelf.
+Structure:  Ideal result for image processing : Scans image to identify and highlight a product which does not fit in  the overall categoty of products shown in image. Generate new image and highlight the exact product which does not fit.
+
+
+
+
+============================================================================================
+============================================================================================
+============================================================================================
+
+Audio processing example :
+
+Roles : You are an expert in Light RAG, Experience 5 yr
+Objective : Design a realistic project for image processing
+Details: Use Python packages pydub, TextBlob. Need to analyse Extracts prosodic features (pitch/volume) to identify "angry" or "frustrated" tones in service recordings.
+Structure:  Ideal result for audio processing : Analyze the text extracted from audi0 and identify and if customer is angry or frustated. If yes report it else nothing.
+
+https://www.youtube.com/shorts/Klw49GZa2wg
+https://www.youtube.com/watch?v=seQ5RRI6H4c
+https://www.youtube.com/shorts/CN694dHNBrI
+https://www.youtube.com/shorts/xwKJXV55nFk
+https://www.youtube.com/shorts/n0VA-_Omcpg
+https://www.youtube.com/shorts/qR59KoLCk0s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

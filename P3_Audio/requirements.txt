@@ -1,0 +1,5 @@
+pydub
+textblob
+SpeechRecognition
+numpy
+ffmpeg
